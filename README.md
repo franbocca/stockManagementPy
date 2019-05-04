@@ -1,0 +1,2 @@
+# stockManagementPy
+Stock Management System
